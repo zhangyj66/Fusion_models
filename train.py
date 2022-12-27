@@ -81,7 +81,7 @@ def train():
 
         # save model every 10 epochs, Can be modified to save the best model in the validation set
         if (e+1) % 10 == 0:
-            torch.save(net.state_dict(), os.path.join(config.save_dir, 'train_model_{}.pth'.format(e)))
+            torch.save(net.state_dict(), os.path.join(config.save_dir, 'train_model_{}.pth'.format(e+1)))
 
 
 if __name__ == "__main__":
