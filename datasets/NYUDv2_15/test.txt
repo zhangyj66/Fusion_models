@@ -1,0 +1,5 @@
+RGB/0.jpg	Label/0.png
+RGB/1.jpg	Label/1.png
+RGB/8.jpg	Label/8.png
+RGB/13.jpg	Label/13.png
+RGB/14.jpg	Label/14.png

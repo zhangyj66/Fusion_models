@@ -1,0 +1,10 @@
+RGB/2.jpg	Label/2.png
+RGB/3.jpg	Label/3.png
+RGB/4.jpg	Label/4.png
+RGB/5.jpg	Label/5.png
+RGB/6.jpg	Label/6.png
+RGB/7.jpg	Label/7.png
+RGB/9.jpg	Label/9.png
+RGB/10.jpg	Label/10.png
+RGB/11.jpg	Label/11.png
+RGB/12.jpg	Label/12.png
