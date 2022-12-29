@@ -1,3 +1,7 @@
+### ENVIRONMENT ###
+python 3.7
+torch 1.8.1
+
 ### FUSION MODULES
 In this code, we have introduced 3 different fusion models in the fusion_models/ folder.
 The input and output forms, hyperparameters, etc. can be modified according to specific tasks.
