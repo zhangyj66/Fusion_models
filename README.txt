@@ -1,6 +1,14 @@
 ### ENVIRONMENT ###
 python 3.7
 torch 1.8.1
+torchvision
+numpy
+tqdm
+timm
+math
+cv2
+os
+sys
 
 ### FUSION MODULES
 In this code, we have introduced 3 different fusion models in the fusion_models/ folder.
