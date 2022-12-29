@@ -1,14 +1,8 @@
-### ENVIRONMENT ###
-   python 3.7
-   torch 1.8.1
-   torchvision
-   numpy
-   tqdm
-   timm
-   math
-   cv2
-   os
-   sys
+### INSTALLATION
+requirements.txt
+Python 3.7
+PyTorch 1.8.1
+CUDA 11.1
 
 ### FUSION MODULES
 In this code, we have introduced 3 different fusion models in the fusion_models/ folder.
